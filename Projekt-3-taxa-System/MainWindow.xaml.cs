@@ -20,5 +20,10 @@ namespace Projekt_3_taxa_System
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //ijoubsenoisndefs
+        }
     }
 }
